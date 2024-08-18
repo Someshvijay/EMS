@@ -1,0 +1,83 @@
+.profile-section {
+
+    background-color: #F6F4EB;
+
+  }
+
+ 
+
+  .card-media {
+
+    width: 160px;
+
+    margin: 0 auto;
+
+  }
+
+ 
+
+ 
+
+  .card-content {
+
+    text-align: center;
+
+    padding: 25px;
+
+  }
+
+ 
+
+  .details-label {
+
+    flex: 1;
+
+    text-align: left;
+
+    margin-left: 100px;
+
+    padding: 5px;
+
+  }
+
+ 
+
+  .details-value {
+
+    flex: 2;
+
+    text-align: left;
+
+    margin-left: 80px;
+
+    margin-top: 6px;
+
+  }
+
+ 
+
+  /* Add other styles as needed */
+
+.edit-textfield{
+
+    width: 50%;
+
+   
+
+}
+
+ 
+
+.edit-textfield-1{
+
+    width: 40%;
+
+    margin-left: 20px;
+
+}
+
+.edit-textfield-2{
+
+    width: 85%;
+
+}

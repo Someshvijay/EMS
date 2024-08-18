@@ -1,0 +1,14 @@
+/* Sidebar.css */
+.drawer {
+    width: 240px;
+  }
+  
+  .drawer-paper {
+    width: 240px;
+  }
+  
+  .main-content {
+    flex-grow: 1;
+    padding: 20px;
+  }
+  
